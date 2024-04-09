@@ -15,13 +15,13 @@ To set up the Coding Clinic Booking System on your Linux workstation, follow the
 1. Clone this repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Simphiwe-Khumo-Yende/Booking-System.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd coding-clinic-booking-system
+cd Booking-System
 ```
 
 3. Make the setup script executable:
