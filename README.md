@@ -1,6 +1,6 @@
 # Coding Clinic Booking System
 
-Welcome to the Coding Clinic Booking System! This command-line toolset automates the booking process for Coding Clinic sessions at WeThinkCode_. With this system, students can easily book, view, and manage their clinic sessions, while volunteers can indicate their availability to assist others.
+Welcome to the Coding Clinic Booking System! This command-line toolset automates the booking process for Coding Clinic sessions. With this system, students can easily book, view, and manage their clinic sessions, while volunteers can indicate their availability to assist others.
 
 ## Contributors
 - Simphiwe Yende
